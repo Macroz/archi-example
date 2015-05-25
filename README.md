@@ -6,9 +6,11 @@ Example project for [archi](http://www.github.com/Macroz/archi) also useful as a
 Usage
 -----
 
-Clone.
+Clone this repository.
 
-   lein run
+```
+> lein run
+```
 
 Open archi.html in your favourite browser.
 
