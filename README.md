@@ -9,10 +9,10 @@ Usage
 Clone this repository.
 
 ```
-> lein run
+lein run
 ```
 
-This will generate a diagram of [archi from source](https://rawgit.com/Macroz/archi-example/master/src/archi_example/example.clj).
+This will generate a diagram of archi from [source](https://rawgit.com/Macroz/archi-example/master/src/archi_example/example.clj) into (by default) [archi.svg](https://rawgit.com/Macroz/archi-example/master/examples/archi.svg) and [archi.html](https://rawgit.com/Macroz/archi-example/master/examples/archi.html).
 
 Open archi.html in your favourite browser.
 
@@ -22,7 +22,7 @@ You should see something like this:
 
 [Example as interactive HTML](https://rawgit.com/Macroz/archi-example/master/examples/archi.html)
 
-Start hacking!
+Start architecting!
 
 License
 -------
