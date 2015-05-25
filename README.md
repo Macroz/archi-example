@@ -12,7 +12,7 @@ Clone this repository.
 > lein run
 ```
 
-This will generate a diagram of ![archi from source](https://rawgit.com/Macroz/archi-example/src/archi_example/example.clj).
+This will generate a diagram of [archi from source](https://rawgit.com/Macroz/archi-example/master/src/archi_example/example.clj).
 
 Open archi.html in your favourite browser.
 
